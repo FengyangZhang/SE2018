@@ -12,3 +12,5 @@ Standard attacks apply gradient descent to maximize the loss of the network, ins
 However, a recent paper: [Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples](https://arxiv.org/abs/1802.00420) showed that maybe we shouldn't rely on these obfuscated gradient methods too much because it can be circumvented.
 
 ![Robustness of some proposed defenses](https://image.jiqizhixin.com/uploads/editor/e3f874e5-b05e-4ed6-aa3c-e6a8aaae160d/943562.png)
+
+From the table we see that only one paper can largely increase the robustness of a model, which is [Towards Deep Learning Models Resistant to Adversarial Attacks](Towards Deep Learning Models Resistant to Adversarial Attacks).
